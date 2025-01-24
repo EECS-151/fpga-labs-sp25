@@ -1,2 +1,2 @@
-# fpga-labs-fa24
-Welcome to the repository for EECS 151/251A Fall 2024 FPGA labs! This repository will contain all the lab skeleton code. Please refer to the [FA24 Website](https://inst.eecs.berkeley.edu/~eecs151/fa24/) for lab instructions.
+# fpga-labs-sp25
+Welcome to the repository for EECS 151/251A Spring 2025 FPGA labs! This repository will contain all the lab skeleton code. Please refer to the [SP25 Website](https://inst.eecs.berkeley.edu/~eecs151/sp25/) for lab instructions.
